@@ -1,0 +1,830 @@
+[
+  {
+    "Pitcher": 38,
+    "Wins": 19,
+    "Win_pct": 0.67857,
+    "ERA": 3.87,
+    "Strikeouts": 215,
+    "Innings_pitched": 216.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 19,
+    "Win_pct": 0.7037,
+    "ERA": 3.24,
+    "Strikeouts": 185,
+    "Innings_pitched": 255.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 22,
+    "Wins": 22,
+    "Win_pct": 0.6875,
+    "ERA": 3.37,
+    "Strikeouts": 261,
+    "Innings_pitched": 256.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 24,
+    "Wins": 7,
+    "Win_pct": 0.58333,
+    "ERA": 2.27,
+    "Strikeouts": 65,
+    "Innings_pitched": 87.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 14,
+    "Wins": 2,
+    "Win_pct": 0.4,
+    "ERA": 2.13,
+    "Strikeouts": 49,
+    "Innings_pitched": 71.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 20,
+    "Wins": 22,
+    "Win_pct": 0.75862,
+    "ERA": 3.65,
+    "Strikeouts": 224,
+    "Innings_pitched": 231.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 50,
+    "Wins": 22,
+    "Win_pct": 0.78571,
+    "ERA": 3.2,
+    "Strikeouts": 236,
+    "Innings_pitched": 239.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 18,
+    "Wins": 20,
+    "Win_pct": 0.66667,
+    "ERA": 2.36,
+    "Strikeouts": 228,
+    "Innings_pitched": 267,
+    "target": 1
+  },
+  {
+    "Pitcher": 41,
+    "Wins": 3,
+    "Win_pct": 0.75,
+    "ERA": 2.16,
+    "Strikeouts": 57,
+    "Innings_pitched": 79.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 46,
+    "Wins": 2,
+    "Win_pct": 0.33333,
+    "ERA": 3.11,
+    "Strikeouts": 65,
+    "Innings_pitched": 75.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 18,
+    "Win_pct": 0.9,
+    "ERA": 2.48,
+    "Strikeouts": 159,
+    "Innings_pitched": 214.3,
+    "target": 1
+  },
+  {
+    "Pitcher": 36,
+    "Wins": 19,
+    "Win_pct": 0.67857,
+    "ERA": 3.29,
+    "Strikeouts": 187,
+    "Innings_pitched": 221.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 23,
+    "Wins": 3,
+    "Win_pct": 1,
+    "ERA": 1.13,
+    "Strikeouts": 49,
+    "Innings_pitched": 64,
+    "target": 0
+  },
+  {
+    "Pitcher": 32,
+    "Wins": 0,
+    "Win_pct": 0,
+    "ERA": 3.47,
+    "Strikeouts": 42,
+    "Innings_pitched": 49.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 18,
+    "Wins": 19,
+    "Win_pct": 0.90476,
+    "ERA": 1.63,
+    "Strikeouts": 147,
+    "Innings_pitched": 209.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 40,
+    "Wins": 18,
+    "Win_pct": 0.72,
+    "ERA": 3.22,
+    "Strikeouts": 158,
+    "Innings_pitched": 190.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 52,
+    "Wins": 1,
+    "Win_pct": 0.5,
+    "ERA": 1.82,
+    "Strikeouts": 42,
+    "Innings_pitched": 54.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 46,
+    "Wins": 1,
+    "Win_pct": 0.33333,
+    "ERA": 3.88,
+    "Strikeouts": 49,
+    "Innings_pitched": 55.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 38,
+    "Wins": 20,
+    "Win_pct": 0.66667,
+    "ERA": 3.22,
+    "Strikeouts": 238,
+    "Innings_pitched": 265.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 3,
+    "Wins": 21,
+    "Win_pct": 0.72414,
+    "ERA": 3.87,
+    "Strikeouts": 229,
+    "Innings_pitched": 221,
+    "target": 0
+  },
+  {
+    "Pitcher": 23,
+    "Wins": 2,
+    "Win_pct": 0.22222,
+    "ERA": 3.73,
+    "Strikeouts": 69,
+    "Innings_pitched": 72.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 28,
+    "Wins": 2,
+    "Win_pct": 0.4,
+    "ERA": 2.83,
+    "Strikeouts": 54,
+    "Innings_pitched": 63.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 1,
+    "Wins": 18,
+    "Win_pct": 0.64286,
+    "ERA": 3.83,
+    "Strikeouts": 215,
+    "Innings_pitched": 230.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 27,
+    "Wins": 24,
+    "Win_pct": 0.75,
+    "ERA": 2.94,
+    "Strikeouts": 199,
+    "Innings_pitched": 253.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 19,
+    "Wins": 1,
+    "Win_pct": 0.33333,
+    "ERA": 2.41,
+    "Strikeouts": 54,
+    "Innings_pitched": 71,
+    "target": 0
+  },
+  {
+    "Pitcher": 57,
+    "Wins": 4,
+    "Win_pct": 0.4,
+    "ERA": 3.03,
+    "Strikeouts": 70,
+    "Innings_pitched": 65.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 42,
+    "Wins": 21,
+    "Win_pct": 0.75,
+    "ERA": 2.05,
+    "Strikeouts": 292,
+    "Innings_pitched": 264,
+    "target": 1
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 20,
+    "Win_pct": 0.833333,
+    "ERA": 2.28,
+    "Strikeouts": 291,
+    "Innings_pitched": 213,
+    "target": 0
+  },
+  {
+    "Pitcher": 7,
+    "Wins": 20,
+    "Win_pct": 0.666667,
+    "ERA": 3.87,
+    "Strikeouts": 174,
+    "Innings_pitched": 239.2,
+    "target": 0
+  },
+  {
+    "Pitcher": 37,
+    "Wins": 6,
+    "Win_pct": 0.6,
+    "ERA": 1.88,
+    "Strikeouts": 68,
+    "Innings_pitched": 71.2,
+    "target": 0
+  },
+  {
+    "Pitcher": 46,
+    "Wins": 2,
+    "Win_pct": 0.4,
+    "ERA": 1.51,
+    "Strikeouts": 56,
+    "Innings_pitched": 59.2,
+    "target": 0
+  },
+  {
+    "Pitcher": 48,
+    "Wins": 19,
+    "Win_pct": 0.791667,
+    "ERA": 3.18,
+    "Strikeouts": 181,
+    "Innings_pitched": 201,
+    "target": 0
+  },
+  {
+    "Pitcher": 11,
+    "Wins": 19,
+    "Win_pct": 0.730769,
+    "ERA": 2.57,
+    "Strikeouts": 205,
+    "Innings_pitched": 255.66,
+    "target": 0
+  },
+  {
+    "Pitcher": 18,
+    "Wins": 19,
+    "Win_pct": 0.826087,
+    "ERA": 2.2,
+    "Strikeouts": 177,
+    "Innings_pitched": 232.66,
+    "target": 0
+  },
+  {
+    "Pitcher": 39,
+    "Wins": 17,
+    "Win_pct": 0.68,
+    "ERA": 1.9,
+    "Strikeouts": 305,
+    "Innings_pitched": 241.33,
+    "target": 1
+  },
+  {
+    "Pitcher": 13,
+    "Wins": 20,
+    "Win_pct": 0.8,
+    "ERA": 2.97,
+    "Strikeouts": 172,
+    "Innings_pitched": 233.33,
+    "target": 0
+  },
+  {
+    "Pitcher": 41,
+    "Wins": 7,
+    "Win_pct": 0.636364,
+    "ERA": 3.47,
+    "Strikeouts": 53,
+    "Innings_pitched": 70,
+    "target": 0
+  },
+  {
+    "Pitcher": 53,
+    "Wins": 6,
+    "Win_pct": 0.6,
+    "ERA": 2.66,
+    "Strikeouts": 111,
+    "Innings_pitched": 81.33,
+    "target": 0
+  },
+  {
+    "Pitcher": 26,
+    "Wins": 4,
+    "Win_pct": 0.666667,
+    "ERA": 2.38,
+    "Strikeouts": 74,
+    "Innings_pitched": 94.66,
+    "target": 0
+  },
+  {
+    "Pitcher": 10,
+    "Wins": 20,
+    "Win_pct": 0.740741,
+    "ERA": 3.55,
+    "Strikeouts": 209,
+    "Innings_pitched": 207.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 42,
+    "Wins": 20,
+    "Win_pct": 0.769231,
+    "ERA": 2.65,
+    "Strikeouts": 271,
+    "Innings_pitched": 234.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 43,
+    "Wins": 20,
+    "Win_pct": 0.740741,
+    "ERA": 4.41,
+    "Strikeouts": 164,
+    "Innings_pitched": 216.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 51,
+    "Wins": 7,
+    "Win_pct": 0.636364,
+    "ERA": 2.72,
+    "Strikeouts": 78,
+    "Innings_pitched": 79.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 56,
+    "Wins": 2,
+    "Win_pct": 0.222222,
+    "ERA": 3.64,
+    "Strikeouts": 87,
+    "Innings_pitched": 66.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 29,
+    "Wins": 3,
+    "Win_pct": 0.75,
+    "ERA": 2.03,
+    "Strikeouts": 72,
+    "Innings_pitched": 62,
+    "target": 0
+  },
+  {
+    "Pitcher": 50,
+    "Wins": 20,
+    "Win_pct": 0.769231,
+    "ERA": 2.47,
+    "Strikeouts": 157,
+    "Innings_pitched": 229.3,
+    "target": 1
+  },
+  {
+    "Pitcher": 49,
+    "Wins": 19,
+    "Win_pct": 0.703704,
+    "ERA": 3.51,
+    "Strikeouts": 209,
+    "Innings_pitched": 233.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 31,
+    "Wins": 19,
+    "Win_pct": 0.678571,
+    "ERA": 4.85,
+    "Strikeouts": 136,
+    "Innings_pitched": 219,
+    "target": 0
+  },
+  {
+    "Pitcher": 41,
+    "Wins": 3,
+    "Win_pct": 0.428571,
+    "ERA": 3.02,
+    "Strikeouts": 81,
+    "Innings_pitched": 80.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 53,
+    "Wins": 4,
+    "Win_pct": 0.666667,
+    "ERA": 1.48,
+    "Strikeouts": 86,
+    "Innings_pitched": 73,
+    "target": 0
+  },
+  {
+    "Pitcher": 5,
+    "Wins": 18,
+    "Win_pct": 0.783,
+    "ERA": 3.95,
+    "Strikeouts": 161,
+    "Innings_pitched": 205,
+    "target": 0
+  },
+  {
+    "Pitcher": 39,
+    "Wins": 23,
+    "Win_pct": 0.852,
+    "ERA": 2.07,
+    "Strikeouts": 313,
+    "Innings_pitched": 213.3,
+    "target": 1
+  },
+  {
+    "Pitcher": 36,
+    "Wins": 18,
+    "Win_pct": 0.72,
+    "ERA": 3.5,
+    "Strikeouts": 172,
+    "Innings_pitched": 203.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 4,
+    "Wins": 18,
+    "Win_pct": 0.667,
+    "ERA": 4.79,
+    "Strikeouts": 186,
+    "Innings_pitched": 205,
+    "target": 0
+  },
+  {
+    "Pitcher": 37,
+    "Wins": 4,
+    "Win_pct": 0.571,
+    "ERA": 1.83,
+    "Strikeouts": 52,
+    "Innings_pitched": 69,
+    "target": 0
+  },
+  {
+    "Pitcher": 28,
+    "Wins": 4,
+    "Win_pct": 0.5,
+    "ERA": 3.68,
+    "Strikeouts": 60,
+    "Innings_pitched": 66,
+    "target": 0
+  },
+  {
+    "Pitcher": 44,
+    "Wins": 2,
+    "Win_pct": 0.4,
+    "ERA": 3.07,
+    "Strikeouts": 69,
+    "Innings_pitched": 73.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 33,
+    "Wins": 22,
+    "Win_pct": 0.846,
+    "ERA": 2.9,
+    "Strikeouts": 177,
+    "Innings_pitched": 239,
+    "target": 0
+  },
+  {
+    "Pitcher": 21,
+    "Wins": 21,
+    "Win_pct": 0.677,
+    "ERA": 3.58,
+    "Strikeouts": 187,
+    "Innings_pitched": 246.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 17,
+    "Win_pct": 0.654,
+    "ERA": 2.48,
+    "Strikeouts": 364,
+    "Innings_pitched": 271.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 53,
+    "Wins": 2,
+    "Win_pct": 0.4,
+    "ERA": 2.14,
+    "Strikeouts": 73,
+    "Innings_pitched": 67.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 58,
+    "Wins": 6,
+    "Win_pct": 0.5,
+    "ERA": 3.69,
+    "Strikeouts": 100,
+    "Innings_pitched": 75.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 54,
+    "Wins": 20,
+    "Win_pct": 0.769,
+    "ERA": 4.14,
+    "Strikeouts": 169,
+    "Innings_pitched": 202.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 39,
+    "Wins": 18,
+    "Win_pct": 0.75,
+    "ERA": 1.74,
+    "Strikeouts": 284,
+    "Innings_pitched": 217,
+    "target": 1
+  },
+  {
+    "Pitcher": 15,
+    "Wins": 20,
+    "Win_pct": 0.714,
+    "ERA": 4.11,
+    "Strikeouts": 166,
+    "Innings_pitched": 229.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 55,
+    "Wins": 2,
+    "Win_pct": 0.333,
+    "ERA": 3.52,
+    "Strikeouts": 67,
+    "Innings_pitched": 64,
+    "target": 0
+  },
+  {
+    "Pitcher": 12,
+    "Wins": 4,
+    "Win_pct": 0.5,
+    "ERA": 2.56,
+    "Strikeouts": 79,
+    "Innings_pitched": 91.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 50,
+    "Wins": 21,
+    "Win_pct": 0.7,
+    "ERA": 3.4,
+    "Strikeouts": 152,
+    "Innings_pitched": 241,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 19,
+    "Win_pct": 0.731,
+    "ERA": 2.64,
+    "Strikeouts": 347,
+    "Innings_pitched": 248.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 11,
+    "Wins": 20,
+    "Win_pct": 0.69,
+    "ERA": 3.91,
+    "Strikeouts": 192,
+    "Innings_pitched": 232.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 0,
+    "Wins": 5,
+    "Win_pct": 0.455,
+    "ERA": 4.24,
+    "Strikeouts": 47,
+    "Innings_pitched": 70,
+    "target": 0
+  },
+  {
+    "Pitcher": 53,
+    "Wins": 4,
+    "Win_pct": 0.364,
+    "ERA": 2.99,
+    "Strikeouts": 85,
+    "Innings_pitched": 72.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 42,
+    "Wins": 20,
+    "Win_pct": 0.87,
+    "ERA": 3.51,
+    "Strikeouts": 213,
+    "Innings_pitched": 220.3,
+    "target": 1
+  },
+  {
+    "Pitcher": 25,
+    "Wins": 20,
+    "Win_pct": 0.769,
+    "ERA": 3.43,
+    "Strikeouts": 119,
+    "Innings_pitched": 209.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 35,
+    "Wins": 21,
+    "Win_pct": 0.724,
+    "ERA": 3.45,
+    "Strikeouts": 153,
+    "Innings_pitched": 229.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 37,
+    "Wins": 4,
+    "Win_pct": 0.4,
+    "ERA": 2.34,
+    "Strikeouts": 83,
+    "Innings_pitched": 80.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 30,
+    "Wins": 0,
+    "Win_pct": 0,
+    "ERA": 3.24,
+    "Strikeouts": 62,
+    "Innings_pitched": 66.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 21,
+    "Win_pct": 0.778,
+    "ERA": 2.49,
+    "Strikeouts": 372,
+    "Innings_pitched": 249.7,
+    "target": 1
+  },
+  {
+    "Pitcher": 34,
+    "Wins": 22,
+    "Win_pct": 0.733,
+    "ERA": 3.16,
+    "Strikeouts": 185,
+    "Innings_pitched": 216.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 9,
+    "Wins": 22,
+    "Win_pct": 0.786,
+    "ERA": 2.98,
+    "Strikeouts": 293,
+    "Innings_pitched": 256.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 2,
+    "Wins": 6,
+    "Win_pct": 0.6,
+    "ERA": 3.77,
+    "Strikeouts": 93,
+    "Innings_pitched": 76.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 53,
+    "Wins": 3,
+    "Win_pct": 0.429,
+    "ERA": 3.43,
+    "Strikeouts": 63,
+    "Innings_pitched": 60.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 47,
+    "Wins": 4,
+    "Win_pct": 0.444,
+    "ERA": 3.01,
+    "Strikeouts": 93,
+    "Innings_pitched": 77.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 26,
+    "Wins": 3,
+    "Win_pct": 0.375,
+    "ERA": 3.61,
+    "Strikeouts": 58,
+    "Innings_pitched": 74.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 8,
+    "Wins": 23,
+    "Win_pct": 0.821429,
+    "ERA": 2.75,
+    "Strikeouts": 182,
+    "Innings_pitched": 229.3,
+    "target": 1
+  },
+  {
+    "Pitcher": 12,
+    "Wins": 21,
+    "Win_pct": 0.724138,
+    "ERA": 2.58,
+    "Strikeouts": 127,
+    "Innings_pitched": 219.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 17,
+    "Wins": 1,
+    "Win_pct": 0.25,
+    "ERA": 2.93,
+    "Strikeouts": 70,
+    "Innings_pitched": 67.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 6,
+    "Wins": 11,
+    "Win_pct": 0.733333,
+    "ERA": 3.77,
+    "Strikeouts": 93,
+    "Innings_pitched": 93.7,
+    "target": 0
+  },
+  {
+    "Pitcher": 45,
+    "Wins": 24,
+    "Win_pct": 0.827586,
+    "ERA": 2.32,
+    "Strikeouts": 334,
+    "Innings_pitched": 260,
+    "target": 1
+  },
+  {
+    "Pitcher": 9,
+    "Wins": 23,
+    "Win_pct": 0.766667,
+    "ERA": 3.23,
+    "Strikeouts": 316,
+    "Innings_pitched": 259.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 27,
+    "Wins": 3,
+    "Win_pct": 0.6,
+    "ERA": 3.25,
+    "Strikeouts": 85,
+    "Innings_pitched": 80.3,
+    "target": 0
+  },
+  {
+    "Pitcher": 16,
+    "Wins": 4,
+    "Win_pct": 0.8,
+    "ERA": 1.97,
+    "Strikeouts": 114,
+    "Innings_pitched": 82.3,
+    "target": 0
+  }
+]

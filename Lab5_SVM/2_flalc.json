@@ -1,0 +1,6398 @@
+[
+    {
+        "fluidity": 0.9976,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99479,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99783,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99635,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99495,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99624,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9922,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99551,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99502,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99729,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99555,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99818,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99498,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 1.00315,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99764,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99748,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99499,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99484,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9936,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99518,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99603,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99258,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9953,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.99646,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99556,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99502,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99598,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99408,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99689,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.0001,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 8.7
+    },
+    {
+        "fluidity": 0.9917,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99526,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99786,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99484,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99444,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99593,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99613,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 1.00012,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99604,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99552,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99576,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99384,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99438,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9985,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99331,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99545,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99578,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99362,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99796,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99378,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99524,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99594,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 1.0003,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9912,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99744,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99865,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99664,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99552,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99346,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99552,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99672,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99501,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99661,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99714,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9946,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99414,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.99524,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99694,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9985,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99756,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99628,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99007,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99566,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9942,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99558,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99428,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99668,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99712,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9934,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99784,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99498,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99803,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99632,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99823,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99664,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99565,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99814,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99566,
+        "alcohol": 11.06666667
+    },
+    {
+        "fluidity": 0.99694,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99358,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99654,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99568,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99472,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99692,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99701,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9934,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99456,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99467,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99808,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99914,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99686,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99834,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9924,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99636,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99356,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99162,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99557,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99331,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99918,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99761,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99622,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99627,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99666,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99394,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9936,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99492,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99628,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99294,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99408,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99624,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99514,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99636,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9953,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99845,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9953,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99712,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99721,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99782,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99471,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.99376,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99614,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99743,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99588,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99472,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99615,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99708,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99334,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99518,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99672,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99733,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99638,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99519,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99786,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99471,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99698,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99364,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99648,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99625,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99488,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99738,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99769,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99672,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99828,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99402,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99935,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99965,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99242,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99525,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99438,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99498,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 1.0032,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99748,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99624,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9946,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99545,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 1.00315,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 1.0022,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99901,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99798,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9993,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9928,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99554,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9954,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99658,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.99817,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99358,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99613,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99357,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99609,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99286,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99639,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99815,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99817,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99306,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99706,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99397,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99647,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99676,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99625,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99668,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99386,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99541,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.99675,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99888,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99492,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99632,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99692,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99154,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99722,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99346,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99915,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99587,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99667,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99464,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99557,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99514,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99684,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99768,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9938,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99314,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99438,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99717,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99623,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99695,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99744,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 1.0022,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9916,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.99713,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99604,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9953,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99064,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9937,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99437,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99543,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99692,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99728,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99675,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99855,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99462,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99396,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99631,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 1.00315,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99566,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99356,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99584,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99638,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99732,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99706,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 13.4
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9949,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99352,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99578,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.0021,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99704,
+        "alcohol": 10.03333333
+    },
+    {
+        "fluidity": 0.99371,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.55
+    },
+    {
+        "fluidity": 0.9989,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99491,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9935,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99064,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99702,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99495,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99632,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9942,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99356,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99585,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99832,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99157,
+        "alcohol": 13.6
+    },
+    {
+        "fluidity": 1.0026,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99765,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99522,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99557,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99564,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99842,
+        "alcohol": 9.25
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99374,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99642,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99779,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99803,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9927,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99592,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99258,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99471,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99417,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.99451,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99598,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99676,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99656,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99665,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9934,
+        "alcohol": 13.1
+    },
+    {
+        "fluidity": 0.99702,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99362,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99489,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99488,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99562,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99426,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.9954,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99634,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99524,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.99864,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9946,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99689,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99716,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99664,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99743,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99444,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99376,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99574,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99732,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99736,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 1.00289,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99716,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99568,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99444,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99531,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.99656,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99747,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99801,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99828,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 1.00005,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 13.4
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99556,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9915,
+        "alcohol": 13.5
+    },
+    {
+        "fluidity": 0.99577,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99669,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99494,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9942,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99712,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99182,
+        "alcohol": 13.6
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 8.4
+    },
+    {
+        "fluidity": 0.99419,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99656,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 1.00015,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99522,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99734,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99577,
+        "alcohol": 13.2
+    },
+    {
+        "fluidity": 0.99642,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99468,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9916,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.99702,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99577,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99629,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99336,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99084,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.99514,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99191,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.99318,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99736,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99738,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99608,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99627,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99316,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.99596,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99587,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0015,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99581,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99536,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9985,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99628,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99734,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 14.9
+    },
+    {
+        "fluidity": 0.99478,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99568,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99814,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99739,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99402,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99633,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99458,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99543,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99656,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99562,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99596,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99518,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99608,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99576,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9954,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99914,
+        "alcohol": 8.5
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.00242,
+        "alcohol": 8.8
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99605,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99564,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99892,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99589,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99693,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99701,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99801,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99641,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99791,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99565,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99473,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99708,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99528,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99374,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99652,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99634,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99385,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99617,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99525,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99622,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99632,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99678,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.994,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99522,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9944,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99346,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9932,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99508,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99392,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99506,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.99388,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99768,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99486,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99677,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99615,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99719,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99634,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99714,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99395,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99647,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99605,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99488,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99738,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99724,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99818,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.99258,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99292,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99629,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99803,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99484,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99725,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99638,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9954,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99531,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99508,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99666,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9937,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.99444,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99575,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99736,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.99854,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99615,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99822,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99842,
+        "alcohol": 9.233333333
+    },
+    {
+        "fluidity": 0.99565,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9944,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99392,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99517,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99354,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99772,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99294,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9902,
+        "alcohol": 13.6
+    },
+    {
+        "fluidity": 0.99702,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99599,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99494,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99786,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99489,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99504,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99651,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99593,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99509,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99783,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9949,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99675,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99547,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99648,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99666,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9921,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99888,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99748,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 1.0026,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99642,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99585,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99636,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99344,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99704,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99439,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99512,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99686,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99328,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99474,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9989,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99724,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99713,
+        "alcohol": 9.566666667
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9951,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99622,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99522,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99976,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99358,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99489,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99824,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99623,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99865,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9929,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99458,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99536,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99734,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.99633,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99512,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99316,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99472,
+        "alcohol": 10.75
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99688,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 1.00005,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99552,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99584,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99408,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99633,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9951,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99718,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99551,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99387,
+        "alcohol": 12.6
+    },
+    {
+        "fluidity": 0.99787,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9924,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.99682,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99655,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99774,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99396,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99798,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99416,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99674,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.99892,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99752,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99402,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99578,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99524,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99668,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99638,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99458,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99938,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99615,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9922,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99754,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99434,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.0003,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99554,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99558,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99768,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99645,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99649,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.99332,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99627,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99588,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99588,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99494,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99718,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99414,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99689,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.0015,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99508,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99371,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99697,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99448,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99476,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99585,
+        "alcohol": 9.05
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9993,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99675,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99494,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99566,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99788,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99922,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 1.00024,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99478,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 13.3
+    },
+    {
+        "fluidity": 1.00242,
+        "alcohol": 8.8
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99264,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99341,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99354,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 1.00369,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9993,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99322,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99574,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99542,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99708,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99603,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99454,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99747,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99528,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99588,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 13.4
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99625,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99613,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99606,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99686,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99974,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99675,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99643,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9949,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99562,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99639,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 0.99683,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99592,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9977,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99576,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99576,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99656,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99787,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.00025,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99352,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99504,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99636,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.99376,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.99694,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99532,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9951,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99592,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99774,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0001,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99785,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99544,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99526,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9946,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99724,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99669,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99925,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99546,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99425,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99732,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9951,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9944,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99438,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 1.0004,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99467,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99379,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.99692,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99547,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9977,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99551,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99672,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99514,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99787,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99605,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99448,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9987,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99659,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99939,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 13.3
+    },
+    {
+        "fluidity": 0.99712,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99614,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9943,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99668,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9999,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99769,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99498,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99582,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.99348,
+        "alcohol": 11.95
+    },
+    {
+        "fluidity": 0.99553,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99459,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99727,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9955,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99824,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99638,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99483,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99734,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9933,
+        "alcohol": 13.6
+    },
+    {
+        "fluidity": 0.99575,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99549,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99554,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.99523,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.99736,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99498,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99718,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99388,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.99007,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.9934,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99676,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99476,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99488,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99552,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.99356,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.99256,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 1.0008,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9957,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99529,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99562,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 8.7
+    },
+    {
+        "fluidity": 0.99182,
+        "alcohol": 13.56666667
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99975,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99592,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99677,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.996,
+        "alcohol": 9.95
+    },
+    {
+        "fluidity": 0.99708,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99693,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99788,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9993,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99378,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9973,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99699,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99824,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0008,
+        "alcohol": 8.4
+    },
+    {
+        "fluidity": 0.99323,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.99758,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9947,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99672,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99674,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99735,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99586,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99418,
+        "alcohol": 11.8
+    },
+    {
+        "fluidity": 0.99448,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 1.0021,
+        "alcohol": 12.7
+    },
+    {
+        "fluidity": 0.99573,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99636,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99724,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.00369,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9978,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99235,
+        "alcohol": 13.1
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 1.0001,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99604,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99726,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99648,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99549,
+        "alcohol": 12.0
+    },
+    {
+        "fluidity": 0.9924,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99774,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99689,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99572,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 1.0008,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.99418,
+        "alcohol": 12.9
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9977,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99688,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99818,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9983,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.55
+    },
+    {
+        "fluidity": 0.99378,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99599,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99545,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99619,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 11.6
+    },
+    {
+        "fluidity": 0.99528,
+        "alcohol": 12.4
+    },
+    {
+        "fluidity": 0.99859,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.9991,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99622,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 1.0001,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 12.3
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99534,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9956,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.997,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9967,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9971,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9958,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99709,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9988,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99616,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.99242,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.99878,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.1
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99514,
+        "alcohol": 10.55
+    },
+    {
+        "fluidity": 0.99855,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.0018,
+        "alcohol": 13.0
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99615,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99786,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99538,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99419,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9943,
+        "alcohol": 12.2
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99738,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 1.00015,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99612,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9997,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9965,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99396,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99728,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99476,
+        "alcohol": 10.9
+    },
+    {
+        "fluidity": 0.99746,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.99682,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9946,
+        "alcohol": 11.9
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99576,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9992,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9948,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99533,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99892,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99521,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99704,
+        "alcohol": 10.03333333
+    },
+    {
+        "fluidity": 0.99654,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.6
+    },
+    {
+        "fluidity": 0.99448,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9995,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 1.0002,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9984,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99458,
+        "alcohol": 12.1
+    },
+    {
+        "fluidity": 0.9975,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99462,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.9998,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9966,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.994,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9969,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.9963,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99613,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99728,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.99464,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99568,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99236,
+        "alcohol": 10.55
+    },
+    {
+        "fluidity": 0.99782,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9928,
+        "alcohol": 12.8
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99659,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9977,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99606,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.99736,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.99914,
+        "alcohol": 10.2
+    },
+    {
+        "fluidity": 0.99685,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9972,
+        "alcohol": 9.0
+    },
+    {
+        "fluidity": 0.9962,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99852,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.99496,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99633,
+        "alcohol": 11.0
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 1.0,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.995,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.999,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 1.001,
+        "alcohol": 11.2
+    },
+    {
+        "fluidity": 0.99774,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 1.0006,
+        "alcohol": 10.7
+    },
+    {
+        "fluidity": 0.9952,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.9908,
+        "alcohol": 14.0
+    },
+    {
+        "fluidity": 0.99558,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99622,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.9968,
+        "alcohol": 12.5
+    },
+    {
+        "fluidity": 0.99516,
+        "alcohol": 11.7
+    },
+    {
+        "fluidity": 0.9964,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 0.9941,
+        "alcohol": 11.1
+    },
+    {
+        "fluidity": 0.998,
+        "alcohol": 10.0
+    },
+    {
+        "fluidity": 0.9976,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.99815,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9974,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.99683,
+        "alcohol": 10.6
+    },
+    {
+        "fluidity": 0.99836,
+        "alcohol": 10.4
+    },
+    {
+        "fluidity": 0.9996,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99569,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9982,
+        "alcohol": 9.8
+    },
+    {
+        "fluidity": 0.9979,
+        "alcohol": 10.5
+    },
+    {
+        "fluidity": 0.99621,
+        "alcohol": 10.8
+    },
+    {
+        "fluidity": 0.9994,
+        "alcohol": 9.4
+    },
+    {
+        "fluidity": 0.9981,
+        "alcohol": 10.1
+    },
+    {
+        "fluidity": 0.99745,
+        "alcohol": 9.5
+    },
+    {
+        "fluidity": 0.9949,
+        "alcohol": 11.4
+    },
+    {
+        "fluidity": 0.99402,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.99705,
+        "alcohol": 9.7
+    },
+    {
+        "fluidity": 1.0014,
+        "alcohol": 9.3
+    },
+    {
+        "fluidity": 0.99438,
+        "alcohol": 11.3
+    },
+    {
+        "fluidity": 0.9961,
+        "alcohol": 11.5
+    },
+    {
+        "fluidity": 0.99836,
+        "alcohol": 9.9
+    },
+    {
+        "fluidity": 0.99252,
+        "alcohol": 13.3
+    },
+    {
+        "fluidity": 0.9986,
+        "alcohol": 9.2
+    },
+    {
+        "fluidity": 0.9959,
+        "alcohol": 10.3
+    },
+    {
+        "fluidity": 0.99774,
+        "alcohol": 10.5
+    }
+]
